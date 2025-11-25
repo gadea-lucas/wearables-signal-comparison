@@ -109,3 +109,20 @@ Recommended Python version: 3.10+
 1. Place your data following the structure described above.
 2. Run `preprocessing.ipynb`
 3. Run `visualisation_final.ipynb`
+
+
+## 👥 Authors
+- Gadea Lucas-Pérez
+- David Martínez-Acha
+- Ana Serrano-Mamolar
+- Stamos Katsigiannis
+- Álvar Arnaiz-González
+
+
+## 📌 Cite this software as:
+Under review
+
+[![status](https://img.shields.io/badge/status-under_review-yellow)]()
+
+
+
