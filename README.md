@@ -92,10 +92,7 @@ Each device folder contains:
   └── <participant_id>.txt
   ```
 
-File names follow the pattern:
-```txt
-YYYY-MM-DD_HH-MM-SS-xxxxxx_<CHANNEL>.csv
-```
+
 
 You can replicate the analysis by reproducing this directory structure with your own recordings.
 
