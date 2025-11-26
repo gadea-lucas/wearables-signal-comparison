@@ -124,5 +124,14 @@ Under review
 
 [![status](https://img.shields.io/badge/status-under_review-yellow)]()
 
+## 🏛️ Acknowledgments
+
+This work is part of the project <strong>TED2021-129485B-C43</strong> funded by <strong>MCIN/AEI/10.13039/501100011033</strong> and the European Union <em>“NextGenerationEU”/PRTR</em> and project <strong>PID2023-150694OA-I00</strong> funded by <strong>MICIU/AEI/10.13039/501100011033</strong> and by <em>“ERDF/EU”</em>. </p>
+
+<p align="center" style="background-color: white; padding: 10px; border-radius: 15px;">
+  <img src="img/MICIU.png" alt="MICIU Logo" width="350" />
+</p>
+
+
 
 
