@@ -7,7 +7,8 @@ This repository contains the full preprocessing and visualization pipeline used 
 - Extraction of PPG/BVP, GSR/EDA, ACC and derived signals like HR
 - Generation of the correlation matrices and plots, and time-course visualizations
 
-> **Raw data are not included**, but the expected directory structure and data formats are documented below to ensure full reproducibility.
+> **Raw data are not included** in this GitHub repository, but they are publicly available on [Zenodo](https://doi.org/10.5281/zenodo.17985867).  
+> The dataset expected directory structure and data formats are documented below to ensure full reproducibility.
 
 ---
 
