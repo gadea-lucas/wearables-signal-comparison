@@ -110,8 +110,9 @@ Recommended Python version: 3.10+
 ## ▶ How to run the analysis
 
 1. Place your data following the structure described above.
-2. Run `preprocessing.ipynb`
-3. Run `visualisation_final.ipynb`
+2. Install requirements.txt
+3. Run `preprocessing.ipynb`
+4. Run `visualisation.ipynb`
 
 
 ## 👥 Authors
