@@ -19,7 +19,7 @@ The repository includes:
 - participant-level bootstrap analysis;
 - illustrative Random Forest classification using time-series features.
 
-> Raw recordings are not distributed through GitHub. The exact dataset associated with this code release is publicly available on Zenodo: 
+> Raw recordings are not distributed through GitHub. The exact dataset associated with this code release is publicly available on Zenodo (v3): 
 >
 > [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.22655618-blue)](https://doi.org/10.5281/zenodo.22655618)
 
@@ -322,6 +322,16 @@ processed_data/processed_data.pickle
 and do not depend on one another.
 
 The `tsfresh` feature-extraction stage in `04_classification.ipynb` is computationally more demanding than the other analyses. Extracted feature tables are cached so that subsequent executions can reuse them.
+
+---
+
+## 📋 Manuscript figures and tables provenance
+
+| Manuscript output | Notebook | Input | Signals |
+|---|---|---|---|
+| Figure 3 (first 2 rows) | `02_visualisation.ipynb` | Four placement recordings + `Stamps/` | EDA/GSR and PPG-derived HR |
+| Figure 3 (last row) | `04_classification.ipynb` | Four placement recordings + `Stamps/` | EDA/GSR and PPG-derived HR |
+| Table 1 | `03_bootstrap_analysis.ipynb` | Four placement recordings + `Stamps/` | EDA/GSR and PPG-derived HR |
 
 ---
 
