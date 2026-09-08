@@ -21,7 +21,8 @@ The repository includes:
 
 > Raw recordings are not distributed through GitHub. The exact dataset associated with this code release is publicly available on Zenodo: 
 >
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17985867.svg)](https://doi.org/10.5281/zenodo.17985867)
+> [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.22655618-blue)](https://doi.org/10.5281/zenodo.22655618)
+
 
 ---
 
